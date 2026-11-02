@@ -51,7 +51,7 @@
       "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 2,
+      "radius": 1,
       "borderWidth": 1,
       "shadows": "none"
     },
